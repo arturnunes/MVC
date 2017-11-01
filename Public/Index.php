@@ -1,1 +1,2 @@
-<?php       
+<?php  
+require '../Config/Config.php';
